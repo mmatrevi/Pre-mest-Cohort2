@@ -4,6 +4,7 @@ function Nav(){
   return(
       <div>
         <center>
+
         <ul>
          <li><a href='https://www.google.com'>Google</a></li>
          <li><a href='https://www.netflix.com/browse'>Netflix</a></li>
